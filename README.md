@@ -1,5 +1,9 @@
-Developed a scalable School Management System using Python, Django, and SQL for efficient administration.
-Implemented role-based authentication for secure access to students, teachers, and administrators.
-Integrated automated attendance tracking, grading, and report generation for seamless academic management.
-Designed an intuitive UI using HTML, CSS, and JavaScript for a responsive and user-friendly experience.
-Optimized database queries and API performance to ensure fast and secure data management.
+Description:This is a School Management System built using JavaScript and Node.js, designed to manage students, teachers, classes, and subjects. It supports basic CRUD operations and serves as a backend for educational platforms.
+
+RESTful API built with Node.js and Express.js
+
+Manage Students, Teachers, Classes, Subjects
+
+Data stored using JSON or a simple file-based system
+
+Modular folder structure for scalability and maintainability
